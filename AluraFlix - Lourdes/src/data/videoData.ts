@@ -1,7 +1,7 @@
 const videos = [
     {
       id: 1,
-      title: 'Cuándo usar let, var y const?',
+      title: '¿Cuándo usar let, var y const?',
       category: 'Frontend',
       imageUrl: 'https://raw.githubusercontent.com/EdwinPuello/AluraFlix/refs/heads/master/src/assets/img/cuandoUsarVar.png',
       videoUrl: 'https://www.youtube.com/watch?v=PztCEdIJITY&ab_channel=AluraLatam',
@@ -9,7 +9,7 @@ const videos = [
     },
     {
       id: 2,
-      title: 'Que es JavaScript?',
+      title: '¿Que es JavaScript?',
       category: 'Frontend',
       imageUrl: 'https://raw.githubusercontent.com/EdwinPuello/AluraFlix/refs/heads/master/src/assets/img/VideoCard.png',
       videoUrl: 'https://www.youtube.com/watch?v=GJfOSoaXk4s&ab_channel=AluraLatam',
@@ -21,7 +21,7 @@ const videos = [
       category: 'Frontend',
       imageUrl: 'https://raw.githubusercontent.com/EdwinPuello/AluraFlix/refs/heads/master/src/assets/img/equipoFrontend.png',
       videoUrl: 'https://www.youtube.com/watch?v=rpvrLaBQwgg&ab_channel=AluraLatam',
-      description: '¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología?',
+      description: '¿Estás empezando tus estudios de Programación? El maravilloso mundo de la tecnología.',
     },
     {
       id: 4,
@@ -29,7 +29,7 @@ const videos = [
       category: 'Backend',
       imageUrl: 'https://raw.githubusercontent.com/EdwinPuello/AluraFlix/refs/heads/master/src/assets/img/backend1.png',
       videoUrl: 'https://www.youtube.com/watch?v=t-iqt1b2qqk&ab_channel=AluraLatam',
-      description: '¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java. Nos ofrece herramientas que nos permiten crear proyectos más avanzados, con mejores prácticas y en menor tiempo. También posee una gran comunidad, lo que nos brinda muchísima documentación y ayuda.',
+      description: '¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework?. Nos ofrece herramientas que nos permiten crear proyectos más avanzados, con mejores prácticas y en menor tiempo. También posee una gran comunidad, lo que nos brinda muchísima documentación y ayuda.',
     },
     {
       id: 5,
@@ -53,7 +53,7 @@ const videos = [
       category: 'Innovación',
       imageUrl: 'https://raw.githubusercontent.com/EdwinPuello/AluraFlix/refs/heads/master/src/assets/img/inovation1.png',
       videoUrl: 'https://www.youtube.com/watch?v=vhwspfvI52k&ab_channel=AluraLatam',
-      description: '¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día.',
+      description: '¿Qué son las Softskills y por qué es tan importante desarrollarlas? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día.',
     },
     {
       id: 8,
